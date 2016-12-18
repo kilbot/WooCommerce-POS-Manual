@@ -19,8 +19,6 @@ By default, the roles **Administrator** (WordPress role) and **Shop Manager** (W
 
 In addition to those default roles WC POS creates a **Cashier** Role that can only _access_ the POS and _run_ it.
 
-The _Cashier_ role does not allow regular WooCommerce operations (like editing products, creating customers ...) nor anything related to the WordPress site management.
-
 A _Cashier_ is the same as a regular _[WP Subscriber](https://codex.wordpress.org/Roles_and_Capabilities#Subscriber)_ with just the extra capabilities necessary to operate the POS.
 
 The default capabilities for this role are:
@@ -35,6 +33,8 @@ list_users
 read_private_shop_coupons
 ```
 _see the `Capability | Access` table below for more infos._
+
+_Note_: The _Cashier_ role does not allow regular WooCommerce operations (like editing products, creating customers ...) nor anything related to the WordPress site management.
 
 ### Adding WooCommerce related capabilities to the Cashier role
 If they wish to promote the _Cashier_ role Store owners can use the POS Access settings to grant additional WooCommerce privileges.

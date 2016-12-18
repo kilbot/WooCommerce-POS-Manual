@@ -1,8 +1,37 @@
 ---
-title: Multi Inventory Stores
+title: Stores
 description:  
 tags: 
 ---
+
+**WooCommerce POS Pro adds the ability to create *separate stores* for your physical sales.** 
+
+{% hint style='info' %}
+This feature is requires an upgrade to [WooCommerce POS Pro](http://wcpos.com/pro).
+{% endhint %}
+
+
+![Example of stores list](http://wcpos.com/wp-content/uploads/2016/08/stores-page.png "Example of stores list")
+
+
+Stores can have their *own address, logo and other details* for use on the [receipt template](receipts.html). 
+Stores can use *different tax rates* and *Sales can be separated by store for [reporting](reports.html#sales-by-store)*.
+
+![Example of store edit page](http://wcpos.com/wp-content/uploads/2016/08/edit-store-page.png "Example of store edit page")
+
+### Assign Cashiers to Stores
+
+...
+
+### Opening Hours Widget
+
+Each Store you setup comes with the ability to set and display its Opening Hours in a Widget on your site.
+
+Hours Setup | Widget Setup | Site display
+----------- | ------------ | ------------
+![](https://s3.amazonaws.com/wcpos/screenshots/Edit_Store__Localhost__WordPress_2016-12-18_19-20-22.png) | ![](https://s3.amazonaws.com/wcpos/screenshots/Widgets__Localhost__WordPress_2016-12-18_19-19-13.png) | ![](https://s3.amazonaws.com/wcpos/screenshots/Localhost__Just_another_WordPress_site_2016-12-18_19-17-48.png)
+
+### Multi Inventory
 
 {% hint style='info' %}
 Multi-inventory is not currently a feature of the Pro plugin. 

@@ -4,13 +4,15 @@ description: Products can be hidden in your online store or at the point of sale
 tags: filtering, pos-only, product display
 ---
 
-There may be situations where you need to hide a product from either your Online store or your POS. 
-With WooCommerce POS this can be achieved using the POS Visibility setting on the product edit page. 
+There may be situations where you need to hide a product from either your Online store or your POS.
+
+With WooCommerce POS this can be achieved using the POS Visibility setting on the product edit page.
 
 ### Enabling POS Only Products
 
-POS Only Products is not enabled by default.
-To enable POS Only Products go to <code>WP Admin > POS > Settings > General</code>
+**POS Only Products is not enabled by default.**
+
+To enable POS Only Products go to <code>WP Admin > POS > Settings > Products</code>
 
 ![Enable POS Only Products](http://wcpos.com/wp-content/uploads/2014/09/enable-pos-only-products.png "Enable POS Only Products")
 

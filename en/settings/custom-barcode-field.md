@@ -4,7 +4,7 @@ description:
 tags: barcode, filters, postmeta
 ---
 
-By default WooCommerce POS will use the SKU field as the barcode. 
+By default WooCommerce POS will use the SKU field as the barcode.
 
 ![By default WooCommerce POS will use the SKU field as the barcode. ](http://wcpos.com/wp-content/uploads/2016/06/product-sku.png "By default WooCommerce POS will use the SKU field as the barcode")
 
