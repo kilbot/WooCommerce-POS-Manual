@@ -1,3 +1,2 @@
-# docs.wcpos.com
+# Initial page
 
-User manual for WooCommerce POS, the point of sale plugin for WordPress.
